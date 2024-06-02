@@ -2,9 +2,9 @@
 
 
 
-[![NPM](https://img.shields.io/npm/v/react-swipeable-button.svg)](https://www.npmjs.com/package/react-swipeable-button)
-[![install size](https://packagephobia.com/badge?p=react-swipeable-button)](https://packagephobia.com/result?p=react-swipeable-button)
-[![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-swipeable-button?style=flat-square)](https://bundlephobia.com/package/react-swipeable-button@latest)[![npm downloads](https://img.shields.io/npm/dm/react-swipeable-button.svg?style=flat-square)](https://npm-stat.com/charts.html?package=react-swipeable-button)
+[![NPM](https://img.shields.io/npm/v/mongo-oid.svg)](https://www.npmjs.com/package/mongo-oid)
+[![install size](https://packagephobia.com/badge?p=mongo-oid)](https://packagephobia.com/result?p=mongo-oid)
+[![npm bundle size](https://img.shields.io/bundlephobia/minzip/mongo-oid?style=flat-square)](https://bundlephobia.com/package/mongo-oid@latest)[![npm downloads](https://img.shields.io/npm/dm/mongo-oid.svg?style=flat-square)](https://npm-stat.com/charts.html?package=mongo-oid)
 
 ### A package to generate 12 bytes Hex String for MongoDB Object Id
 
