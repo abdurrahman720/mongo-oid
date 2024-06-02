@@ -1,6 +1,6 @@
 {
   "name": "mongo-oid",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A package to generate 12 bytes Hex String for MongoDB Object Id",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
