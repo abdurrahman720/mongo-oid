@@ -1,0 +1,30 @@
+{
+  "name": "mongo-oid",
+  "version": "1.0.0",
+  "description": "A package to generate 12 bytes Hex String for MongoDB Object Id",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist/  && npm run build:esm && npm run build:cjs",
+    "build:esm": "tsc",
+    "build:cjs": "tsc --module CommonJS --outDir dist/cjs"
+  },
+  "keywords": [
+    "mongo-oid",
+    "mongodb oid",
+    "mongodb objectId",
+    "oid"
+  ],
+  "author": {
+    "name": "Abdur Rahman",
+    "email": "abdur.rahman120@outlook.com",
+    "url": "https://github.com/abdurrahman720"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
